@@ -6,7 +6,7 @@ charset-normalizer==2.0.12
 click==8.1.2
 colorama==0.4.4
 cycler==0.11.0
-dlib
+dlib @dlib-19.19.0-cp38-cp38-win_amd64.whl
 Flask==2.1.1
 fonttools==4.33.1
 google-auth==2.6.6
