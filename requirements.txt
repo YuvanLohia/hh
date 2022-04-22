@@ -6,7 +6,7 @@ charset-normalizer==2.0.12
 click==8.1.2
 colorama==0.4.4
 cycler==0.11.0
-dlib @ file:///C:/Users/BBL/Documents/.python/one_heroku/dlib-19.22.99-cp39-cp39-win_amd64.whl
+dlib
 Flask==2.1.1
 fonttools==4.33.1
 google-auth==2.6.6
